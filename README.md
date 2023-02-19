@@ -2,7 +2,7 @@
 
 This project creates a random batch of 30 mysterious *p.Aequor* organisms, then lets you play around with it!
 
-You can randomly **mutate** a DNA base, **compare** genomes of two different *p.Aequor* organisms or check if a specimen has the **right genes** to give it a better chance of survival.
+You can randomly **mutate** a DNA base, **compare** genomes of two different *p.Aequor* organisms or check if a specimen has the **right genes** to survive.
 
 ###Created for educational purposes
 
